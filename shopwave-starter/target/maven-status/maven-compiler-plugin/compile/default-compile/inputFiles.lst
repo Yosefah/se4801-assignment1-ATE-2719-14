@@ -1,0 +1,11 @@
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/ShopwaveStarterApplication.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/controller/CategoryController.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/controller/ProductController.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/dto/CategoryDTO.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/dto/ProductDTO.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/entity/Category.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/entity/Product.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/repository/CategoryRepository.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/repository/ProductRepository.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/service/CategoryService.java
+/home/abel/Downloads/shopwave-starter/src/main/java/com/shopewave/shopwave_starter/service/ProductService.java

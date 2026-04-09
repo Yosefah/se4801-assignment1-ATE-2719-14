@@ -1,0 +1,15 @@
+com/shopewave/shopwave_starter/dto/CategoryDTO$CategoryDTOBuilder.class
+com/shopewave/shopwave_starter/dto/ProductDTO.class
+com/shopewave/shopwave_starter/dto/CategoryDTO.class
+com/shopewave/shopwave_starter/repository/ProductRepository.class
+com/shopewave/shopwave_starter/ShopwaveStarterApplication.class
+com/shopewave/shopwave_starter/dto/ProductDTO$ProductDTOBuilder.class
+com/shopewave/shopwave_starter/entity/Category$CategoryBuilder.class
+com/shopewave/shopwave_starter/service/CategoryService.class
+com/shopewave/shopwave_starter/repository/CategoryRepository.class
+com/shopewave/shopwave_starter/entity/Category.class
+com/shopewave/shopwave_starter/controller/CategoryController.class
+com/shopewave/shopwave_starter/entity/Product.class
+com/shopewave/shopwave_starter/entity/Product$ProductBuilder.class
+com/shopewave/shopwave_starter/controller/ProductController.class
+com/shopewave/shopwave_starter/service/ProductService.class
